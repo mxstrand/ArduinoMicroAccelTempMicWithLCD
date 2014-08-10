@@ -19,7 +19,6 @@ Components:
  6. Power : http://www.radioshack.com/product/index.jsp?productId=29392246
 
 
-Here's a 90 second video demo:
 [![LCD](http://img.youtube.com/vi/cDUx2JTR1mU/0.jpg)](http://www.youtube.com/watch?v=cDUx2JTR1mU)
 
 
