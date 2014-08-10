@@ -19,7 +19,7 @@ Components:
 
 
 Here's a 90 second video demo:
-[![aduino micro LCD](http://img.youtube.com/vi/cDUx2JTR1mU/0.jpg)](http://www.youtube.com/watch?v=cDUx2JTR1mU)
+[![LCD](http://img.youtube.com/vi/cDUx2JTR1mU/0.jpg)](http://www.youtube.com/watch?v=cDUx2JTR1mU)
 
 
 At the initial phase of just LCD and accelerometer, it looked like this:
