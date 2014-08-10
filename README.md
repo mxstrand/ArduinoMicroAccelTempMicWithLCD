@@ -1,7 +1,7 @@
-ArduinoMicroAccelTempMicWithLCD
+Arduino Micro with ADXL345 Accelerometer, Analog Temp, and Mic with color LCD
 ===============================
 
-ArduinoMicroAccelTempMicWithLCD
+Arduino Micro with ADXL345 Accelerometer, Analog Temp, and Mic with color LCD
 
 
 I wanted to do a project with an LCD and thought writing accelerometer data for a device you can hold - might be a good way to better intuit accelerometer values.
