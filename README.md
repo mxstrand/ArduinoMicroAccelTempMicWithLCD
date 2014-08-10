@@ -18,7 +18,12 @@ Components:
  5. LCD :  https://www.adafruit.com/product/358
 
 
+Here's a 90 second video demo:
+[![aduino micro LCD](http://img.youtube.com/vi/cDUx2JTR1mU/0.jpg)](http://www.youtube.com/watch?v=cDUx2JTR1mU)
+
+
 At the initial phase of just LCD and accelerometer, it looked like this:
 
 [![aduino micro](http://img.youtube.com/vi/YaRuyLMvHv0/0.jpg)](http://www.youtube.com/watch?v=YaRuyLMvHv0)
+
 
